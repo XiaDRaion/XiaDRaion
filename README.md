@@ -36,8 +36,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🔒 Closed issue [#1](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany/issues/1) in [XiaDRaion/EBusiness_BuatinDongCompany](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany)
-2. ❗ Opened issue [#1](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany/issues/1) in [XiaDRaion/EBusiness_BuatinDongCompany](https://github.com/XiaDRaion/EBusiness_BuatinDongCompany)
+1. 🎉 Merged PR [#2](https://github.com/XiaDRaion/Mandarin-Learning-Center/pull/2) in [XiaDRaion/Mandarin-Learning-Center](https://github.com/XiaDRaion/Mandarin-Learning-Center)
+2. 💪 Opened PR [#2](https://github.com/XiaDRaion/Mandarin-Learning-Center/pull/2) in [XiaDRaion/Mandarin-Learning-Center](https://github.com/XiaDRaion/Mandarin-Learning-Center)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
