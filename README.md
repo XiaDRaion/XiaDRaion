@@ -36,7 +36,7 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/XiaDRaion/Mandarin-Learning-Center/pull/2) in [XiaDRaion/Mandarin-Learning-Center](https://github.com/XiaDRaion/Mandarin-Learning-Center)
+1. 💪 Opened PR [#1](https://github.com/XiaDRaion/My-Portfolio/pull/1) in [XiaDRaion/My-Portfolio](https://github.com/XiaDRaion/My-Portfolio)
 2. 💪 Opened PR [#2](https://github.com/XiaDRaion/Mandarin-Learning-Center/pull/2) in [XiaDRaion/Mandarin-Learning-Center](https://github.com/XiaDRaion/Mandarin-Learning-Center)
 <!--END_SECTION:activity-->
 
