@@ -36,8 +36,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/XiaDRaion/My-Portfolio/pull/2) in [XiaDRaion/My-Portfolio](https://github.com/XiaDRaion/My-Portfolio)
-2. 💪 Opened PR [#2](https://github.com/XiaDRaion/My-Portfolio/pull/2) in [XiaDRaion/My-Portfolio](https://github.com/XiaDRaion/My-Portfolio)
+1. 🎉 Merged PR [#3](https://github.com/XiaDRaion/My-Portfolio/pull/3) in [XiaDRaion/My-Portfolio](https://github.com/XiaDRaion/My-Portfolio)
+2. 💪 Opened PR [#3](https://github.com/XiaDRaion/My-Portfolio/pull/3) in [XiaDRaion/My-Portfolio](https://github.com/XiaDRaion/My-Portfolio)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
