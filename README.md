@@ -36,8 +36,8 @@
 **:zap: Recent Activity:**
 
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#1](https://github.com/Teguhkr/UPG/pull/1) in [Teguhkr/UPG](https://github.com/Teguhkr/UPG)
-2. 💪 Opened PR [#1](https://github.com/Teguhkr/UPG/pull/1) in [Teguhkr/UPG](https://github.com/Teguhkr/UPG)
+1. 🎉 Merged PR [#3](https://github.com/Teguhkr/UPG/pull/3) in [Teguhkr/UPG](https://github.com/Teguhkr/UPG)
+2. 💪 Opened PR [#3](https://github.com/Teguhkr/UPG/pull/3) in [Teguhkr/UPG](https://github.com/Teguhkr/UPG)
 <!--END_SECTION:activity-->
 
 <!--START_SECTION:waka-->
